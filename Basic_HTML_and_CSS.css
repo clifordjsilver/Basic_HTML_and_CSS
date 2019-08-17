@@ -1,0 +1,19 @@
+ol.a {
+    list-style-type: circle;
+    color: yellow
+  }
+
+  ul.b {
+    list-style-type: square;
+    color: yellow
+  }
+
+
+  body {
+      background-color:white
+  }
+
+  ol.a, ul.b {
+    text-shadow: 2px 2px black;
+  }
+
